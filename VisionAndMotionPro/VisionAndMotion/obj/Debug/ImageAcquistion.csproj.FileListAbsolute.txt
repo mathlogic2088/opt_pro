@@ -1,8 +1,0 @@
-C:\Users\Likang\Desktop\ImageAcquistion\ImageAcquistion\bin\Debug\ImageAcquistion.dll
-C:\Users\Likang\Desktop\ImageAcquistion\ImageAcquistion\bin\Debug\ImageAcquistion.pdb
-C:\Users\Likang\Desktop\ImageAcquistion\ImageAcquistion\obj\Debug\ImageAcquistion.dll
-C:\Users\Likang\Desktop\ImageAcquistion\ImageAcquistion\obj\Debug\ImageAcquistion.pdb
-C:\Users\Likang\Desktop\ImageAcquistion\ImageAcquistion\bin\Debug\halcondotnet.dll
-C:\Users\Likang\Desktop\ImageAcquistion\ImageAcquistion\bin\Debug\halcondotnet.xml
-C:\Users\Likang\Desktop\ImageAcquistion\ImageAcquistion\obj\Debug\ImageAcquistion.Frm_Acquition.resources
-C:\Users\Likang\Desktop\ImageAcquistion\ImageAcquistion\obj\Debug\ImageAcquistion.csproj.GenerateResource.Cache
