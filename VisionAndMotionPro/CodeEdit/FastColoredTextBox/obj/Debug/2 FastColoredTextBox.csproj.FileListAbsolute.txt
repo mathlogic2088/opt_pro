@@ -1,0 +1,230 @@
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csprojResolveAssemblyReference.cache
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.Properties.Resources.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\2 FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb

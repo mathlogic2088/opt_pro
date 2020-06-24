@@ -1,0 +1,383 @@
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\halcondotnet.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\halcondotnet.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\halcondotnet.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\halcondotnet.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\halcondotnet.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.2\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.exe.config
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.exe
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision & Motion Pro.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FlyCapture2Managed.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\Cognex.VisionPro.xml
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\4 Start.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\Start.Properties.Resources.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\obj\x86\Debug\4 Start.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\HWindow_Tool.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\Start\bin\Debug\HWindow_Tool.pdb

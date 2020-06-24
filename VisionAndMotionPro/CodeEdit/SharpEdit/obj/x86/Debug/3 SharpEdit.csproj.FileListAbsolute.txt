@@ -1,0 +1,336 @@
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\Allegro\Desktop\VisionAndMotionPro V1.0.0.1\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old4\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\VisionAndMotionPro V1.0.0.7\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+X:\项目\经典项目\框架源码\7.2\VisionAndMotionPro V0.0.0.3\VisionAndMotionPro V0.0.0.3\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+G:\BaiduNetdiskDownload\VisionAndMotionPro F1.0.0密Vision66\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+F:\2019\Ihalcon\Ihalcon\VisionAndMotionPro\VisionAndMotionPro V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+F:\OptoVision\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll.config
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.dll
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\SharpEdit.pdb
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.dll
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.dll
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.pdb
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\FastColoredTextBox.xml
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\bin\Debug\Basler.Pylon.xml
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csprojResolveAssemblyReference.cache
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ClassFileList.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ComplieUI.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.ConsoleTextBox.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Form1.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.Properties.Resources.resources
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\3 SharpEdit.csproj.GenerateResource.Cache
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.dll
+C:\Users\jayden.zhai\Desktop\VisionAndMotionPro_V0.0.0\CodeEdit\SharpEdit\obj\x86\Debug\SharpEdit.pdb

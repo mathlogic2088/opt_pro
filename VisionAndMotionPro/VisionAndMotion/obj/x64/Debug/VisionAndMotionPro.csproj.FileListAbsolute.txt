@@ -1,0 +1,913 @@
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\bin\x64\Debug\Movement & Vision Pro_X64.dll
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\bin\x64\Debug\Movement & Vision Pro_X64.pdb
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\bin\x64\Debug\Basler.Pylon.dll
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\bin\x64\Debug\halcondotnet.dll
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\bin\x64\Debug\PylonC.NETSupportLibrary.dll
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\bin\x64\Debug\halcondotnet.xml
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_BlobAnalyseToolPreProcessing.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_runSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_serial.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_startSetting.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_TCPIP.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_SubImageToolSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Network.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_MatchMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Main.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\Movement & Vision Pro_X64.dll
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\Movement & Vision Pro_X64.pdb
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_BlobAnalyseToolPreProcessing.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_runSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_serial.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_startSetting.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPIP.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_SubImageToolSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Network.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_MatchMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotion.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Main.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_runSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_startSetting.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageToolSettings.resources
+C:\Users\李康\Desktop\My Projects\5 VisionAndMotion\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\bin\x64\Debug\Movement & Vision Pro_X64.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\bin\x64\Debug\Movement & Vision Pro_X64.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseToolPreProcessing.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_runSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_startSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPIP.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageToolSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Network.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MatchMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\Movement & Vision Pro_X64.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\Movement & Vision Pro_X64.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotion V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_runSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_startSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\x64\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\x64\Debug\Vision & Motion Pro_X64.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\x64\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\x64\Debug\Vision & Motion Pro_X64.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\x64\Debug\Vision & Motion Pro_X64.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\x64\Debug\Vision & Motion Pro_X64.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\x64\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\x64\Debug\Vision & Motion Pro_X64.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\x64\Debug\Vision & Motion Pro_X64.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\x64\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\x64\Debug\Vision & Motion Pro_X64.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\x64\Debug\Vision & Motion Pro_X64.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\x64\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Axis.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.2\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Axis.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\Old3\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.3\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.4\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.5\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.6\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csprojResolveAssemblyReference.cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageAcquistionTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AcquisitionFromDevice.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ReadFromLocal.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BarcodeTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_BlobAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_SubImageTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DownCamAlignTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProcessingItemConfig1.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\ImageAcquistion._1_ToolsLib._7_DataAnalyseTool.Frm_DataAnalyseTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LabelTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LogicTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AlarmWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_EyeHandCalibrationTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_communicateConfig.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ConfirmBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Feedback.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_JobInfo.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Lock.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Monitor.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPServer.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Version.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_GeneralSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FullScreen.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ProjetSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_RunSettings.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Serial.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_StartSetting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_TCPClient.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Tools.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_MessageBox.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserManager.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Login.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Welcome.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Setting.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_InputMessage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ShapeMatchTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_OutputBoxTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Job.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Main.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Properties.Resources.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.csproj.GenerateResource.Cache
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.7\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.8\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.9\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\Debug\Tool.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_CoorTransTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_FindCircleTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_IO.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ImageWindow.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Omniselector.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Output.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Regiest.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_Sample.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_UserForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.dll
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\Vision and Motion Pro.pdb
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.0\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistanceSegmentAndSegmentTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistancePointLineTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_DistanceSegmentAndSegmentTool.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_AxisControl.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_inputSingalVitual.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_LayoutManage.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro._3_FormsLib.Frm_PanelForm.resources
+C:\Users\李康\Desktop\My Projects\5 Vision & Motion Pro\VisionAndMotionPro V1.0.0.1\VisionAndMotion\obj\x64\Debug\VisionAndMotionPro.Frm_ToolBase.resources

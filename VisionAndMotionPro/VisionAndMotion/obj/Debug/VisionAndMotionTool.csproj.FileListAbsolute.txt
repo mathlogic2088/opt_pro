@@ -1,0 +1,58 @@
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_AxisSetting.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_AlarmWindow.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_communicateConfig.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_GeneralSettings.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_mainForm.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_runSettings.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_serial.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_startSetting.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_TCPIP.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Tools.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_UserManager.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Version.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Login.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Welcome.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_BinThreshold.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_threshold.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Setting.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_InputMessage.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Network.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\ImageAcquistion.Properties.Resources.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotionTool.csproj.GenerateResource.Cache
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\bin\Debug\Movement & Vision Dll.dll
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\bin\Debug\Movement & Vision Dll.pdb
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\bin\Debug\halcondotnet.dll
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\bin\Debug\halcondotnet.xml
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\Movement & Vision Dll.dll
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\Movement & Vision Dll.pdb
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_ProjetSettings.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.2\ImageAcquistion\obj\Debug\VisionAndMotionTool.csprojResolveAssemblyReference.cache
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\bin\Debug\Movement & Vision Dll.dll
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\bin\Debug\Movement & Vision Dll.pdb
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\bin\Debug\halcondotnet.dll
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\bin\Debug\halcondotnet.xml
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_AxisSetting.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_AlarmWindow.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_communicateConfig.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_GeneralSettings.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_FullScreen.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_mainForm.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_ProjetSettings.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_runSettings.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_serial.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_startSetting.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_TCPIP.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Tools.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_MessageBox.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_UserManager.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Version.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Login.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Welcome.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_Setting.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Frm_InputMessage.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotion.Network.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\ImageAcquistion.Properties.Resources.resources
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotionTool.csproj.GenerateResource.Cache
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\Movement & Vision Dll.dll
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\Movement & Vision Dll.pdb
+C:\Users\likang\Desktop\ImageAcquistion V2.0.0.3\ImageAcquistion\obj\Debug\VisionAndMotionTool.csprojResolveAssemblyReference.cache
